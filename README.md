@@ -16,6 +16,8 @@ make run_server
 
 ## Test server
 
+Run test commands in another terminal after running the server
+
 ### Run tcp client
 
 ```bash
